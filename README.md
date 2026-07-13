@@ -1,16 +1,15 @@
-## Hi there 👋
+# Prachi Bhardwaj
 
-<!--
-**prachibhardwaj460/prachibhardwaj460** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student passionate about programming and technology. Currently learning Python and web development while building projects and improving problem-solving skills.
 
-Here are some ideas to get you started:
+## Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python: https://github.com/prachibhardwaj460/python
+- HTML: https://github.com/prachibhardwaj460/HTML
+
+## About
+
+I enjoy learning new technologies and building projects to improve my skills. My current focus is on Python, HTML, Git, and GitHub, with plans to explore Data Science and Machine Learning.
+
+---
+*This profile will be updated as I continue learning and building.*
