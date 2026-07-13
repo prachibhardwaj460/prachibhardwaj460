@@ -6,6 +6,7 @@ Engineering student passionate about programming and technology. Currently learn
 
 - Python: https://github.com/prachibhardwaj460/python
 - HTML: https://github.com/prachibhardwaj460/HTML
+- CSS: https://github.com/prachibhardwaj460/CSS.git
 
 ## About
 
